@@ -1,0 +1,100 @@
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\appsettings.json
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Backend SignalR.exe
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Backend SignalR.deps.json
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Backend SignalR.runtimeconfig.json
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Backend SignalR.runtimeconfig.dev.json
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Backend SignalR.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\ref\Backend SignalR.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Backend SignalR.pdb
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.csproj.AssemblyReference.cache
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.AssemblyInfoInputs.cache
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.AssemblyInfo.cs
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\obj\Debug\net5.0\staticwebassets\Backend SignalR.StaticWebAssets.Manifest.cache
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\obj\Debug\net5.0\staticwebassets\Backend SignalR.StaticWebAssets.xml
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\obj\Debug\net5.0\scopedcss\bundle\Backend SignalR.styles.css
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.RazorTargetAssemblyInfo.cache
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\obj\Debug\net5.0\ref\Backend SignalR.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.pdb
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.genruntimeconfig.cache
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\.filenesting.json
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Dapper.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\APIMySQL.Data.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\APIMySQL.Model.dll
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\APIMySQL.Data.pdb
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\bin\Debug\net5.0\APIMySQL.Model.pdb
+C:\Users\Camilo\Desktop\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.csproj.CopyComplete
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\.filenesting.json
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\appsettings.json
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Backend SignalR.exe
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Backend SignalR.deps.json
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Backend SignalR.runtimeconfig.json
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Backend SignalR.runtimeconfig.dev.json
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Backend SignalR.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\ref\Backend SignalR.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Backend SignalR.pdb
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Dapper.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\APIMySQL.Data.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\APIMySQL.Model.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\APIMySQL.Data.pdb
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\APIMySQL.Model.pdb
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.csproj.AssemblyReference.cache
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.AssemblyInfoInputs.cache
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.AssemblyInfo.cs
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\obj\Debug\net5.0\staticwebassets\Backend SignalR.StaticWebAssets.Manifest.cache
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\obj\Debug\net5.0\staticwebassets\Backend SignalR.StaticWebAssets.xml
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\obj\Debug\net5.0\scopedcss\bundle\Backend SignalR.styles.css
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.RazorTargetAssemblyInfo.cache
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\obj\Debug\net5.0\ref\Backend SignalR.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.pdb
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\obj\Debug\net5.0\Backend SignalR.genruntimeconfig.cache
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\Backend SignalR\bin\Debug\net5.0\Nancy.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H3p7Hm5bQN4BQAsypJRiJ4KqqE5rCRLQAqDpnYsARr4YJuJvTXxh6OUD2Re8RX8RsTpzPGE6NnwcqznotK6uxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\APIMySQL.Model\\APIMySQL.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Camilo\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}
