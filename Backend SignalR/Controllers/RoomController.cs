@@ -49,16 +49,10 @@ namespace Backend_SignalR.Controllers
         }
 
         [HttpGet]
-        [Route("messages/{token}")]
-        public async Task<IActionResult> GetMessagesRoom(string token)
+        [Route("messages/{room}")]
+        public async Task<IActionResult> GetMessagesRoom(int room)
         {
-            /* eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzYsImV4cCI6MTY1MDQwNzgxNX0.s_jXVDIe5-mN2HwEmNgHYyizuGx0sGOIRDNOA8iJCJo */
-
-            var handler = new JwtSecurityTokenHandler();
-            var decodedValue = handler.ReadJwtToken(token);
-            var id = decodedValue.Payload.GetValueOrDefault("id");
-
-            return Ok(await _roomRepository.GetMessagesUser(Convert.ToInt32(id)));
+            return Ok(await _roomRepository.GetMessagesUser(Convert.ToInt32(room)));
         }
 
         [HttpPost]

@@ -1,6 +1,5 @@
 C:\Users\Camilo\Desktop\Backend SignalR\APIMySQL.Data\bin\Debug\net5.0\APIMySQL.Data.deps.json
 C:\Users\Camilo\Desktop\Backend SignalR\APIMySQL.Data\bin\Debug\net5.0\APIMySQL.Data.dll
-C:\Users\Camilo\Desktop\Backend SignalR\APIMySQL.Data\bin\Debug\net5.0\ref\APIMySQL.Data.dll
 C:\Users\Camilo\Desktop\Backend SignalR\APIMySQL.Data\bin\Debug\net5.0\APIMySQL.Data.pdb
 C:\Users\Camilo\Desktop\Backend SignalR\APIMySQL.Data\bin\Debug\net5.0\APIMySQL.Model.dll
 C:\Users\Camilo\Desktop\Backend SignalR\APIMySQL.Data\bin\Debug\net5.0\APIMySQL.Model.pdb
@@ -26,3 +25,6 @@ C:\Users\Camilo\Desktop\Projects\Backend SignalR\APIMySQL.Data\bin\Debug\net5.0\
 C:\Users\Camilo\Desktop\Projects\Backend SignalR\APIMySQL.Data\bin\Debug\net5.0\APIMySQL.Data.pdb
 C:\Users\Camilo\Desktop\Projects\Backend SignalR\APIMySQL.Data\bin\Debug\net5.0\APIMySQL.Model.dll
 C:\Users\Camilo\Desktop\Projects\Backend SignalR\APIMySQL.Data\bin\Debug\net5.0\APIMySQL.Model.pdb
+C:\Users\Camilo\Desktop\Projects\Backend SignalR\APIMySQL.Data\obj\Debug\net5.0\APIMySQL.Data.csproj.CopyComplete
+C:\Users\Camilo\Desktop\Backend SignalR\APIMySQL.Data\obj\Debug\net5.0\APIMySQL.Data.csproj.CopyComplete
+C:\Users\Camilo\Desktop\Backend SignalR\APIMySQL.Data\obj\Debug\net5.0\refint\APIMySQL.Data.dll

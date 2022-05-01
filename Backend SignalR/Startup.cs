@@ -36,7 +36,7 @@ namespace Backend_SignalR
             services.AddControllers();
             services.AddCors(options => {
                 options.AddDefaultPolicy(builder => {
-                    builder.WithOrigins("https://workforhours.herokuapp.com", "http://localhost:3000")
+                    builder.WithOrigins("https://work4hours.pages.dev", "http://localhost:3000")
                       .AllowAnyHeader()
                       .AllowAnyMethod()
                       .AllowCredentials();
@@ -70,6 +70,7 @@ namespace Backend_SignalR
             {
                 endpoints.MapControllers();
                 endpoints.MapHub<ChatHub>("/chat");
+                endpoints.MapHub<NotificationHub>("/notifications");
             });
         }
     }

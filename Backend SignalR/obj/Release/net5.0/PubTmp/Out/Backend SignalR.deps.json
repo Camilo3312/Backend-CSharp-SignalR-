@@ -1502,7 +1502,8 @@
         "dependencies": {
           "APIMySQL.Model": "1.0.0",
           "Dapper": "2.0.123",
-          "MySql.Data": "8.0.28"
+          "MySql.Data": "8.0.28",
+          "System.IdentityModel.Tokens.Jwt": "6.17.0"
         },
         "runtime": {
           "APIMySQL.Data.dll": {}

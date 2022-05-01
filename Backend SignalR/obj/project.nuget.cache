@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZIpDXDs/aFOcNP5urhv7AXcNOom9yAvjhtRpuRCCzTYMb1h0sO6OPlv4KZpKHOEtzy3xfrX7v0cqYQi9wj6YUg==",
+  "dgSpecHash": "10qPnEg4t+y8vKDuHR6gBc1LxcEdlewOipsQOBl+1F4yQT7NYAawhy80ksBwtPm5nDYTOnVmD5O54Iw0viEfxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\Backend SignalR\\Backend SignalR.csproj",
+  "projectFilePath": "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\Backend SignalR\\Backend SignalR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Camilo\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Camilo\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",

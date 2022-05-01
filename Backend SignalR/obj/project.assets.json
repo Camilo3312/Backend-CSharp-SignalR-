@@ -1869,7 +1869,8 @@
         "dependencies": {
           "APIMySQL.Model": "1.0.0",
           "Dapper": "2.0.123",
-          "MySql.Data": "8.0.28"
+          "MySql.Data": "8.0.28",
+          "System.IdentityModel.Tokens.Jwt": "6.17.0"
         },
         "compile": {
           "bin/placeholder/APIMySQL.Data.dll": {}
@@ -6672,11 +6673,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\Backend SignalR\\Backend SignalR.csproj",
+      "projectUniqueName": "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\Backend SignalR\\Backend SignalR.csproj",
       "projectName": "Backend SignalR",
-      "projectPath": "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\Backend SignalR\\Backend SignalR.csproj",
+      "projectPath": "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\Backend SignalR\\Backend SignalR.csproj",
       "packagesPath": "C:\\Users\\Camilo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\Backend SignalR\\obj\\",
+      "outputPath": "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\Backend SignalR\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Camilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6693,11 +6694,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\APIMySQL.Data\\APIMySQL.Data.csproj": {
-              "projectPath": "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\APIMySQL.Data\\APIMySQL.Data.csproj"
+            "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Data\\APIMySQL.Data.csproj": {
+              "projectPath": "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Data\\APIMySQL.Data.csproj"
             },
-            "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\APIMySQL.Model\\APIMySQL.Model.csproj": {
-              "projectPath": "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\APIMySQL.Model\\APIMySQL.Model.csproj"
+            "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Model\\APIMySQL.Model.csproj": {
+              "projectPath": "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Model\\APIMySQL.Model.csproj"
             }
           }
         }
@@ -6755,7 +6756,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

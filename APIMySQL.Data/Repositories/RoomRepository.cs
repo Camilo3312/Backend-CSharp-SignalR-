@@ -4,6 +4,7 @@ using MySql.Data.MySqlClient;
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -65,6 +66,12 @@ namespace APIMySQL.Data.Repositories
         public async Task<bool> CreateMessage(Message message)
         {
             using (var database = dbConnection()) {
+
+                var handler = new JwtSecurityTokenHandler();
+                var decodedValue = handler.ReadJwtToken(message.token);
+                var id = decodedValue.Payload.GetValueOrDefault("id");
+                message.idusuario = Convert.ToInt32(id);
+
                 var query = @"
                         INSERT INTO mensajes (mensaje, fecha, idsala, idusuario)
                         VALUES (@mensaje, @fecha, @idsala, @idusuario)

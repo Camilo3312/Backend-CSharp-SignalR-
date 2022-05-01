@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\APIMySQL.Data\\APIMySQL.Data.csproj": {}
+    "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Data\\APIMySQL.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\APIMySQL.Data\\APIMySQL.Data.csproj": {
+    "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Data\\APIMySQL.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\APIMySQL.Data\\APIMySQL.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Data\\APIMySQL.Data.csproj",
         "projectName": "APIMySQL.Data",
-        "projectPath": "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\APIMySQL.Data\\APIMySQL.Data.csproj",
+        "projectPath": "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Data\\APIMySQL.Data.csproj",
         "packagesPath": "C:\\Users\\Camilo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\APIMySQL.Data\\obj\\",
+        "outputPath": "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Camilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\APIMySQL.Model\\APIMySQL.Model.csproj": {
-                "projectPath": "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\APIMySQL.Model\\APIMySQL.Model.csproj"
+              "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Model\\APIMySQL.Model.csproj": {
+                "projectPath": "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Model\\APIMySQL.Model.csproj"
               }
             }
           }
@@ -51,6 +51,10 @@
             "MySql.Data": {
               "target": "Package",
               "version": "[8.0.28, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.17.0, )"
             }
           },
           "imports": [
@@ -68,18 +72,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\APIMySQL.Model\\APIMySQL.Model.csproj": {
+    "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Model\\APIMySQL.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\APIMySQL.Model\\APIMySQL.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Model\\APIMySQL.Model.csproj",
         "projectName": "APIMySQL.Model",
-        "projectPath": "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\APIMySQL.Model\\APIMySQL.Model.csproj",
+        "projectPath": "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Model\\APIMySQL.Model.csproj",
         "packagesPath": "C:\\Users\\Camilo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Camilo\\Desktop\\Projects\\Backend SignalR\\APIMySQL.Model\\obj\\",
+        "outputPath": "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Camilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
