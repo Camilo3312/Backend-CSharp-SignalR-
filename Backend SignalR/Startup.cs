@@ -36,7 +36,7 @@ namespace Backend_SignalR
             services.AddControllers();
             services.AddCors(options => {
                 options.AddDefaultPolicy(builder => {
-                    builder.WithOrigins("https://work4hours.pages.dev", "http://localhost:3000")
+                    builder.WithOrigins("https://work4hours.pages.dev", "http://localhost:3000", "https://work-for-hours-f-tests.pages.dev")
                       .AllowAnyHeader()
                       .AllowAnyMethod()
                       .AllowCredentials();

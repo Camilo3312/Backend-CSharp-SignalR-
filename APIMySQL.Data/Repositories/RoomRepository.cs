@@ -40,7 +40,7 @@ namespace APIMySQL.Data.Repositories
         {
             using (var database = dbConnection()) {
                 var query = @"
-                     select u.apellidos, u.nombres, u.fotop, u.idusuario, su.idsala, s.nombre as nombreservicio, s.foto, s.idservicio 
+                     select u.apellidos, u.nombres, u.fotop, u.color, u.idusuario, su.idsala, s.nombre as nombreservicio, s.foto, s.idservicio 
                      from sala_usuario su inner join usuarios u on su.idusuario = u.idusuario 
                      left join sala sl on su.idsala = sl.idsala
                      inner join servicios s on  sl.servicio = s.idservicio
