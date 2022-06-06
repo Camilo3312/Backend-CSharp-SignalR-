@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SsiiTI89RWIOfcvGiFb7/4jNvFySQpvdNH5LQnt2q3NVOFixTEOyuehKcgqHEonV5SrHNRaTpXoytIwtLdZKNw==",
+  "dgSpecHash": "LJz55+9cDnZ0rUbnmpDbJke9Mykic3lfB6w7XUCT4OJ3Sx2+yhFZFOju0AzvfPXGLFSKA/WUtEqNqiqAkr4qxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Model\\APIMySQL.Model.csproj",
+  "projectFilePath": "C:\\Users\\Camilo\\Desktop\\Backend-CSharp-SignalR-\\APIMySQL.Model\\APIMySQL.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Camilo\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
   ],

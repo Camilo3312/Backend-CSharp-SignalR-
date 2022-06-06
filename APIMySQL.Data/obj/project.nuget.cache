@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/jeeduLE05I4guu3u1e4sq+nNwneQUVxIQxultM0OEsxHo/uikXtNQnH+A9247LALmo/kxVGGTirm+NPG5A6Kg==",
+  "dgSpecHash": "KT6+G2qgyfGw6vf4T3Sst6SLnHjfFVU8x9/gAd6KiWJbDObPCEazRsMDPuXURJ+SI9WJLpCYmuj0ir4OvIty5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Data\\APIMySQL.Data.csproj",
+  "projectFilePath": "C:\\Users\\Camilo\\Desktop\\Backend-CSharp-SignalR-\\APIMySQL.Data\\APIMySQL.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Camilo\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Camilo\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",

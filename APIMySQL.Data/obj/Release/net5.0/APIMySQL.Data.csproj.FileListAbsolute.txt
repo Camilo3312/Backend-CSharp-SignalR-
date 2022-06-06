@@ -28,3 +28,18 @@ C:\Users\Camilo\Desktop\Backend SignalR\APIMySQL.Data\obj\Release\net5.0\APIMySQ
 C:\Users\Camilo\Desktop\Backend SignalR\APIMySQL.Data\obj\Release\net5.0\refint\APIMySQL.Data.dll
 C:\Users\Camilo\Desktop\Backend SignalR\APIMySQL.Data\obj\Release\net5.0\APIMySQL.Data.pdb
 C:\Users\Camilo\Desktop\Backend SignalR\APIMySQL.Data\obj\Release\net5.0\ref\APIMySQL.Data.dll
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Data\bin\Release\net5.0\APIMySQL.Data.deps.json
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Data\bin\Release\net5.0\APIMySQL.Data.dll
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Data\bin\Release\net5.0\APIMySQL.Data.pdb
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Data\bin\Release\net5.0\APIMySQL.Model.dll
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Data\bin\Release\net5.0\APIMySQL.Model.pdb
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Data\obj\Release\net5.0\APIMySQL.Data.csproj.AssemblyReference.cache
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Data\obj\Release\net5.0\APIMySQL.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Data\obj\Release\net5.0\APIMySQL.Data.AssemblyInfoInputs.cache
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Data\obj\Release\net5.0\APIMySQL.Data.AssemblyInfo.cs
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Data\obj\Release\net5.0\APIMySQL.Data.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Data\obj\Release\net5.0\APIMySQL.Data.csproj.CopyComplete
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Data\obj\Release\net5.0\APIMySQL.Data.dll
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Data\obj\Release\net5.0\refint\APIMySQL.Data.dll
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Data\obj\Release\net5.0\APIMySQL.Data.pdb
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Data\obj\Release\net5.0\ref\APIMySQL.Data.dll

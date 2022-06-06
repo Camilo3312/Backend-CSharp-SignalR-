@@ -22,3 +22,15 @@ C:\Users\Camilo\Desktop\Backend SignalR\APIMySQL.Model\obj\Release\net5.0\APIMyS
 C:\Users\Camilo\Desktop\Backend SignalR\APIMySQL.Model\obj\Release\net5.0\refint\APIMySQL.Model.dll
 C:\Users\Camilo\Desktop\Backend SignalR\APIMySQL.Model\obj\Release\net5.0\APIMySQL.Model.pdb
 C:\Users\Camilo\Desktop\Backend SignalR\APIMySQL.Model\obj\Release\net5.0\ref\APIMySQL.Model.dll
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Model\bin\Release\net5.0\APIMySQL.Model.deps.json
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Model\bin\Release\net5.0\APIMySQL.Model.dll
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Model\bin\Release\net5.0\APIMySQL.Model.pdb
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Model\obj\Release\net5.0\APIMySQL.Model.csproj.AssemblyReference.cache
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Model\obj\Release\net5.0\APIMySQL.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Model\obj\Release\net5.0\APIMySQL.Model.AssemblyInfoInputs.cache
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Model\obj\Release\net5.0\APIMySQL.Model.AssemblyInfo.cs
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Model\obj\Release\net5.0\APIMySQL.Model.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Model\obj\Release\net5.0\APIMySQL.Model.dll
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Model\obj\Release\net5.0\refint\APIMySQL.Model.dll
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Model\obj\Release\net5.0\APIMySQL.Model.pdb
+C:\Users\Camilo\Desktop\Backend-CSharp-SignalR-\APIMySQL.Model\obj\Release\net5.0\ref\APIMySQL.Model.dll

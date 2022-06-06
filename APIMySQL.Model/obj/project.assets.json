@@ -44,11 +44,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Model\\APIMySQL.Model.csproj",
+      "projectUniqueName": "C:\\Users\\Camilo\\Desktop\\Backend-CSharp-SignalR-\\APIMySQL.Model\\APIMySQL.Model.csproj",
       "projectName": "APIMySQL.Model",
-      "projectPath": "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Model\\APIMySQL.Model.csproj",
+      "projectPath": "C:\\Users\\Camilo\\Desktop\\Backend-CSharp-SignalR-\\APIMySQL.Model\\APIMySQL.Model.csproj",
       "packagesPath": "C:\\Users\\Camilo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Camilo\\Desktop\\Backend SignalR\\APIMySQL.Model\\obj\\",
+      "outputPath": "C:\\Users\\Camilo\\Desktop\\Backend-CSharp-SignalR-\\APIMySQL.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Camilo\\AppData\\Roaming\\NuGet\\NuGet.Config",

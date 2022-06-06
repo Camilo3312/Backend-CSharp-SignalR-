@@ -69,7 +69,7 @@ namespace APIMySQL.Data.Repositories
 
                 var handler = new JwtSecurityTokenHandler();
                 var decodedValue = handler.ReadJwtToken(message.token);
-                var id = decodedValue.Payload.GetValueOrDefault("id");
+                var id = decodedValue.Payload.GetValueOrDefault("userId");
                 message.idusuario = Convert.ToInt32(id);
 
                 var query = @"

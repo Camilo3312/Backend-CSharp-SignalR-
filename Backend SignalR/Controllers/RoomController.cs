@@ -43,7 +43,7 @@ namespace Backend_SignalR.Controllers
         {
             var handler = new JwtSecurityTokenHandler();
             var decodedValue = handler.ReadJwtToken(token);
-            var id = decodedValue.Payload.GetValueOrDefault("id");
+            var id = decodedValue.Payload.GetValueOrDefault("userId");
 
             return Ok(await _roomRepository.GetRoomUser(Convert.ToInt32(id)));
         }
