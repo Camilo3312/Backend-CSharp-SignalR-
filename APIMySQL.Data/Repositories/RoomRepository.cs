@@ -73,8 +73,8 @@ namespace APIMySQL.Data.Repositories
                 message.idusuario = Convert.ToInt32(id);
 
                 var query = @"
-                        INSERT INTO mensajes (mensaje, fecha, idsala, idusuario)
-                        VALUES (@mensaje, @fecha, @idsala, @idusuario)
+                        INSERT INTO mensajes (mensaje, idsala, idusuario)
+                        VALUES (@mensaje, @idsala, @idusuario)
                 ";
                 var response = database.ExecuteAsync(query, message);
                 return await response > 0;

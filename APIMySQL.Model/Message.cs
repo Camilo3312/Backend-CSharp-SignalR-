@@ -11,7 +11,7 @@ namespace APIMySQL.Model
         public int idmensaje { get; set; }
         public int idusuario { get; set; }
         public string mensaje { get; set; }
-        public string fecha { get; set; }
+        //public string fecha { get; set; }
         public int idsala { get; set; }
         public string token { get; set; }
     }

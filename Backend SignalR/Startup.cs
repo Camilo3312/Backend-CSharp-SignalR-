@@ -29,7 +29,7 @@ namespace Backend_SignalR
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            var mySQlConnectionConfig = new MySQLConfiguration("Server=work4hours-db.conkpkcjiuon.us-east-2.rds.amazonaws.com; Port=3306; Database=sys; Uid=db_admin; Pwd=DCMMLwork4hours;");
+            var mySQlConnectionConfig = new MySQLConfiguration(Configuration.GetConnectionString("work4hoursDatabase"));
             services.AddSingleton(mySQlConnectionConfig);
             services.AddSignalR();
             services.AddScoped<IRoomRepository, RoomRepository>();
