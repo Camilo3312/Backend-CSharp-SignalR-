@@ -26,12 +26,25 @@ namespace APIMySQL.Data.Repositories
 
         public async Task<bool> CreateRoom(Room room, int iduser1, int iduser2)
         {
-            using (var database = dbConnection()) {
-                var query = @"INSERT INTO sala (fechainicio, fechafin, horainicio, horafin, servicio)
+            if (iduser1 != iduser2) {
+                using (var database = dbConnection()) {
+                    var query = @"INSERT INTO sala (fechainicio, fechafin, horainicio, horafin, servicio)
                               VALUES (@fechainicio, @fechafin, @horainicio, @horafin, @servicio);
                              ";
                     query += $"INSERT INTO sala_usuario (idsala, idusuario) VALUES (@@identity, {iduser1} ); INSERT INTO sala_usuario(idsala, idusuario) VALUES((select max(idsala) from sala), {iduser2} );";
-                var response = database.ExecuteAsync(query, room);
+                    var response = database.ExecuteAsync(query, room);
+                    return await response > 0;
+                }
+            }
+            return false;
+        }
+
+        public async Task<bool> DeleteRoom(int idroom)
+        {
+            using (var database = dbConnection()) {
+                var query = @"DELETE FROM sala WHERE idsala = @idroom;
+                             ";
+                var response = database.ExecuteAsync(query, new { idroom = idroom });
                 return await response > 0;
             }
         }
@@ -73,8 +86,8 @@ namespace APIMySQL.Data.Repositories
                 message.idusuario = Convert.ToInt32(id);
 
                 var query = @"
-                        INSERT INTO mensajes (mensaje, idsala, idusuario)
-                        VALUES (@mensaje, @idsala, @idusuario)
+                        INSERT INTO mensajes (mensaje, fecha, idsala, idusuario)
+                        VALUES (@mensaje, @fecha, @idsala, @idusuario)
                 ";
                 var response = database.ExecuteAsync(query, message);
                 return await response > 0;

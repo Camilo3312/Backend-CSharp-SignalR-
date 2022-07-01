@@ -49,6 +49,13 @@ namespace Backend_SignalR.Controllers
         }
 
         [HttpGet]
+        [Route("room/delete/{idroom}")]
+        public async Task<IActionResult> DeleteRoom(int idroom)
+        {
+            return Ok(await _roomRepository.DeleteRoom(Convert.ToInt32(idroom)));
+        }
+
+        [HttpGet]
         [Route("messages/{room}")]
         public async Task<IActionResult> GetMessagesRoom(int room)
         {

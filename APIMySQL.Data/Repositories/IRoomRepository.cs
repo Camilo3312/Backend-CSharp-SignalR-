@@ -13,6 +13,7 @@ namespace APIMySQL.Data.Repositories
         Task<IEnumerable> GetRoomUser(int id);
         Task<IEnumerable> GetMessagesUser(int id);
         Task<bool> CreateRoom(Room room, int iduser1, int iduser2);
+        Task<bool> DeleteRoom(int idroom);
         Task<bool> CreateMessage(Message message);
     }
 }
